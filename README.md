@@ -1,5 +1,5 @@
 ## About
-vueToAPI is a simple vue frontend for interacting with https://github.com/JoachimROtto/urlShortener
+vueToAPI is a simple vue frontend to interact with https://github.com/JoachimROtto/urlShortener
 
 ## Installation
 npm install
