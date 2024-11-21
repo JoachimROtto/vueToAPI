@@ -1,7 +1,7 @@
 import { store } from '@/stores';
 
 export async function getURL(url: string) {
-  fetch('http://localhost:8080/shortenweb', {
+  fetch('http://localhost:8080/shorten', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
